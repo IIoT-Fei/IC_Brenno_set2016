@@ -10,3 +10,21 @@ O funcionamento desses módulos pode ser observado na figura a seguir.
 
 [Figura]
 
+Installation requeirements 
+
+  - Mongo DB
+  - Doker 
+  - Python 3.5.* (for Manager Module)
+    - matplotlib
+    - flask
+    - numpy
+    - PIL
+    - pymongo
+    - networkx
+    - urllib3
+    - scipy
+  - Python 2.7.* (for Detection Module)
+    - opencv 
+    - matplotlib 
+    - ...
+  - MCL  
